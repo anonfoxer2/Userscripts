@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Novicane - SPNATI Cheat
-// @namespace    https://www.github.com/anonfoxer2
+// @namespace    https://www.github.com/anonfoxer
 // @version      1.0.0
 // @description  Collection of cheats for the browser game SPNATI, put into a large userscript for ease of use
 // @author       anonfoxer
 // @match        https://spnati.net/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 
