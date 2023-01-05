@@ -12,7 +12,15 @@
 
 /* Making the buttons and appending them all
 just underneath the name bubble of each character.
-Kinda roundabout but eh. */
+Kinda roundabout but eh. 
+Yes i am well aware debug mode lets you do all of these things but
+1. it only really works in offline
+2. doing it in the online version is tedious even with a script like this
+3. this is smaller than downloading the offline version
+4. this works on android devices.
+
+im sick of people discrediting work like this because "Oh well debug mode and offline version"
+yes, that is an option, but please stop pretending like stuff like this isn't useful.*/
 
 console.log("N O V I C A N E _ L O A D I N G . . .");
 
