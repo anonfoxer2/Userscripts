@@ -91,4 +91,4 @@ catch (e) {
 }
 });
 
-console.log("Novocaine >> Loaded and functioning properly.");
+console.log("Novocaine >> Loaded.");
